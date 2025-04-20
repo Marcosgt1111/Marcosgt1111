@@ -1,7 +1,7 @@
 ## Hello 👋
 
-- 🖥 I'm a front end developer
-- 🔭 I am currently looking for opportunities
+- 🖥 I'm a fullstack developer
+- 🔭 applying new ideas and testing new technologies
 - 👨‍🎓 I have a degree in systems analysis and development at etep university center
 - 📚 I continue to improve in what motivates me to move forward
 
