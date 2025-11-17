@@ -5,7 +5,7 @@
 - 📚 I continue to improve in what motivates me to move forward
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDV1NnJqYXVqd3phNGlpMWZud3JsdTdxZDVndHZlb2V1dmFpYjEwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJ41N6gkrWIqnC/giphy.gif" alt="Coding GIF" width="400"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXg0dGgyM25sMjQ5cjgya2FodjZhcnl2Yzk2eWQyYnZ5dnR6cHJtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3owzW8C7kCoMgArzxe/giphy.gif" alt="Coding GIF" width="400"/>
 </div>
 
 ---
